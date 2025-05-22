@@ -1,4 +1,1 @@
-package.json
-.husky/
-.husky/commit-msg
-.vscode
+/target
